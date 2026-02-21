@@ -56,9 +56,16 @@ I build things that are fast, purposeful, and occasionally impressive at dinner 
 ---
 
 ## activity
+
+## activity
 <div align="center">
-   <img src="https://raw.githubusercontent.com/arjsh16/arjsh16/output/github-snake.svg" />
-<br><sub>profile views: <img src="https://komarev.com/ghpvc/?username=arjsh16&style=flat-square&color=FA96B0&label=" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjsh16/arjsh16/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjsh16/arjsh16/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/arjsh16/arjsh16/output/github-snake.svg" />
+  </picture>
+  <br><sub>profile views: <img src="https://komarev.com/ghpvc/?username=arjsh16&style=flat-square&color=FA96B0&label=" />
+  </sub>
 </div>
   
 ---
