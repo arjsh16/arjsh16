@@ -13,8 +13,8 @@ jobs:
         with:
           github_user_name: arjsh16
           outputs: |
-            dist/github-snake.svg?color_snake=cornflowerblue&color_dots=#161b22,#2a2a3a,#ffb3c6,#FA96B0,#d4607a
-            dist/github-snake-dark.svg?color_snake=cornflowerblue&color_dots=#161b22,#2a2a3a,#ffb3c6,#FA96B0,#d4607a&color_background=#0d1117
+            dist/github-snake.svg?color_dots=#161b22,#2a2a3a,#ffb3c6,#FA96B0,#d4607a
+            dist/github-snake-dark.svg?color_snake=royalblue&color_dots=#161b22,#2a2a3a,#ffb3c6,#FA96B0,#d4607a
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
