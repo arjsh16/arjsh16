@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**arjsh16/arjsh16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Arjun Sharma
+### Rocks → Sand → Silicon → Computers. I work somewhere in the last part.
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arjun-sharma-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjunnn-sharmaa/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjsh.05@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## Who Am I?
+
+I'm a student who got curious about how sand becomes intelligence — and decided to spend my time building the intelligence part. I work at the intersection of **Machine Learning**, **AI systems**, and **software engineering**, with a particular obsession with models that understand human language and vision.
+
+I build things that are fast, purposeful, and occasionally impressive at dinner parties.
+
+---
+
+## 🧠 What I Work With
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**ML & AI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+
+**Generative AI** — Gemini · Mistral · OpenAI APIs  
+**Vector Databases** — QDrant · Pinecone  
+**Domains** — ANNs · NLP · Speech Processing · Computer Vision
+
+**Backend & Databases**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Web & Cloud**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**CS Fundamentals** — OOP · DSA · OS · DBMS · CN · API Development
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjsh16&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjsh16&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Build Something
+
+I'm open to collaborating on **any project** — if you have an idea, I'm probably already curious about it.
+
+The best way to reach me is through the **[Contact section of my portfolio](https://arjun-sharma-portfolio.vercel.app/)**, or drop me an email at **arjsh.05@gmail.com**.
+
+---
+
+<div align="center">
+<sub>From igneous rock to neural network — what a time to be alive.</sub>
+</div>
