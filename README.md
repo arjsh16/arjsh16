@@ -13,15 +13,15 @@
 
 ## Who Am I?
 
-I'm a student who got curious about how sand becomes intelligence — and decided to spend my time building the intelligence part. I work at the intersection of **Machine Learning**, **AI systems**, and **software engineering**, with a particular obsession with models that understand human language and vision.
+I'm a student who got curious about how sand becomes intelligence — and decided to spend my time building the intelligence part. I work at the intersection of Machine Learning, AI systems, and software engineering, with a particular obsession with models that understand human language and vision.
 
-I build things that are fast, purposeful, and occasionally impressive at dinner parties.
+I build things that are purposeful and occasionally impressive at dinner parties.
 
 ---
 <div align="center">
   
-## What I Work With
-
+## What I Have Worked With
+#### I am always open to learn new tech stack
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -55,9 +55,8 @@ I build things that are fast, purposeful, and occasionally impressive at dinner 
 
 ---
 
-## activity
+## Recent Activity
 
-## activity
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjsh16/arjsh16/output/github-snake-dark.svg" />
