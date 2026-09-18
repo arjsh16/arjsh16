@@ -73,7 +73,7 @@ I build things that are purposeful and occasionally impressive at dinner parties
 
 I'm open to collaborating on **any project** — if you have an idea, I'm probably already curious about it.
 
-The best way to reach me is through the **[Contact section of my portfolio](https://arjun-sharma-portfolio.vercel.app/)**, or drop me an email at **arjsh.05@gmail.com**.
+The best way to reach me is through the **[Contact section of my portfolio](https://arjun-sharma-portfolio.vercel.app/contact)**, or drop me an email at **arjsh.05@gmail.com**.
 
 ---
 
